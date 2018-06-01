@@ -1,6 +1,6 @@
 {
   "name": "rt-event-calendar",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A React based event calendar with simple API with the purpose to simplify the booking of hourly events.",
   "main": "build/index.js",
   "peerDependencies": {
