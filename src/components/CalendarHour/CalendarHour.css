@@ -1,0 +1,26 @@
+.rt-calendar-hour {
+    width: 90%;
+    margin: 5px auto;
+    height: 40px;
+    line-height: 40px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    border: 2px solid #81bcaa;
+    color: #81bcaa;
+}
+
+.rt-working-hour {
+    cursor: pointer;
+}
+
+.rt-busy-hour {
+    opacity: 0.4;
+    cursor: not-allowed;
+    text-decoration: line-through;
+}
+
+.rt-day-off {
+    font-size: 12px;
+    opacity: 0.4;
+    cursor: not-allowed;
+}
