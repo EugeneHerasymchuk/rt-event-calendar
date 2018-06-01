@@ -22,7 +22,7 @@ busyHours | PropTypes.object | {} | No | Object with index of days as keys and a
 daysOff | PropTypes.array | [] | No | Array of indexes of days which are off
 onClick | PropTypes.func | () => {} | No | Callback handler the hour click event. (clickedDay /*index*/, clickedHour /*value from workingTime array */
 
-#### workingTime [Array] (**required**)
+#### workingTime [Array] | (**required**)
 ```workingTime: [8, 18]```  The hours will be rendered from (08.00 - 09.00) to the last one as (17.00 - 18.00)
 
 #### weekDays [Object]
@@ -59,7 +59,7 @@ The hours (13.00 - 14.00) and (14.00 - 15.00) will be disabled on the Friday
 
 ```daysOff: [1, 6]``` Tuesday and Sunday will be off
 
-#### onClick [Function] (clickedDayIndex, clickedHour)
+#### onClick [Function] | (clickedDayIndex, clickedHour)
 
 ```
 handleClickEvent = (clickedDayIndex, clickedHour) => {
