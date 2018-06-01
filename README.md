@@ -2,7 +2,9 @@
 
 A React based event calendar with simple API with the purpose to simplify the booking of hourly events.
 
-[LIVE DEMO](https://react-event-calendar.firebaseapp.com/)
+[![npm version](https://badge.fury.io/js/rt-event-calendar.svg)](https://badge.fury.io/js/rt-event-calendar)
+
+[LIVE DEMO](https://react-event-calendar.firebaseapp.com/)       
 [DEMO-PROJECT](https://github.com/EugeneHerasymchuk/react-event-calendar)
 
 ![image](https://user-images.githubusercontent.com/16426867/40840222-119e2c4c-65a6-11e8-893e-8847ea026b2b.png)
