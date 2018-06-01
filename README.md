@@ -9,7 +9,7 @@ A React based event calendar with simple API with the purpose to simplify the bo
 
 ### Installation
 
-```npm i rt-event-calendar```
+```npm i rt-event-calendar``` [*--save is default from npmv5.0.0*](https://blog.npmjs.org/post/161081169345/v500)
 
 ### API
 
